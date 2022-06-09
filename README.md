@@ -22,4 +22,4 @@ $ git clone https://github.com/BD-MRZ-KING/Free--Fun
 
 $ cd Free--Fun
 
-$ python just-naw.py
+$ python Just-Now.py
